@@ -1,0 +1,147 @@
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 1
+Total runtime : 55.451 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 1
+Total runtime : 54.8515 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 1
+Total runtime : 73.9155 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 2
+Total runtime : 29.3332 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 2
+Total runtime : 37.082 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 2
+Total runtime : 43.5288 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 4
+Total runtime : 15.7129 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 4
+Total runtime : 24.6373 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 4
+Total runtime : 27.3855 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 8
+Total runtime : 9.20439 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 8
+Total runtime : 19.3803 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 8
+Total runtime : 19.4153 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 10
+Total runtime : 8.43252 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 10
+Total runtime : 17.9247 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 10
+Total runtime : 20.6705 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 20
+Total runtime : 9.31399 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 20
+Total runtime : 19.2744 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 20
+Total runtime : 22.287 s
+
+
+name: static
+N: 2048
+iters: 10000
+Number of Threads used: 40
+Total runtime : 10.1227 s
+
+
+name: static1
+N: 2048
+iters: 10000
+Number of Threads used: 40
+Total runtime : 20.1096 s
+
+
+name: dynamic
+N: 2048
+iters: 10000
+Number of Threads used: 40
+Total runtime : 21.74 s
+

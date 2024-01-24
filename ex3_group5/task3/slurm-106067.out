@@ -1,0 +1,594 @@
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 0: -0.000178518
+Final Approximation of the Integral: -0.000178518
+Runtime of the Integration 668406 microseconds
+Number of Threads used: 1
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 0: 1.2176
+Final Approximation of the Integral: 1.2176
+Runtime of the Integration 1049064 microseconds
+Number of Threads used: 1
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 0: 19.119
+Final Approximation of the Integral: 19.119
+Runtime of the Integration 753564 microseconds
+Number of Threads used: 1
+Number of Total Samples: 10000000
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 1: 0.00144051
+Thread 0: -0.00233464
+Thread 4: -0.00173115
+Thread 3: -0.00278958
+Thread 2: -0.000811915
+Final Approximation of the Integral: -0.00124535
+Runtime of the Integration 323782 microseconds
+Number of Threads used: 5
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 1: 1.21695
+Thread 0: 1.21768
+Thread 4: 1.21747
+Thread 3: 1.21724
+Thread 2: 1.21799
+Final Approximation of the Integral: 1.21747
+Runtime of the Integration 443728 microseconds
+Number of Threads used: 5
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 1: 19.1249
+Thread 3: 19.1141
+Thread 0: 19.094
+Thread 2: 19.15
+Thread 4: 19.1104
+Final Approximation of the Integral: 19.1187
+Runtime of the Integration 358035 microseconds
+Number of Threads used: 5
+Number of Total Samples: 10000000
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 0: 0.00280345
+Thread 8: -0.000890365
+Thread 6: -0.00112226
+Thread 9: -0.00421195
+Thread 4: -0.00266651
+Thread 1: 2.35583e-05
+Thread 2: -0.00305804
+Thread 3: -1.38524e-06
+Thread 5: -0.000327742
+Thread 7: -0.000494528
+Final Approximation of the Integral: -0.000994577
+Runtime of the Integration 301512 microseconds
+Number of Threads used: 10
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 0: 1.21732
+Thread 1: 1.21621
+Thread 4: 1.21863
+Thread 5: 1.21848
+Thread 3: 1.21629
+Thread 6: 1.21779
+Thread 8: 1.21742
+Thread 7: 1.21696
+Thread 2: 1.2192
+Thread 9: 1.21685
+Final Approximation of the Integral: 1.21752
+Runtime of the Integration 474882 microseconds
+Number of Threads used: 10
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 0: 19.1372
+Thread 7: 19.0939
+Thread 8: 19.0711
+Thread 6: 19.101
+Thread 1: 19.1239
+Thread 2: 19.0853
+Thread 5: 19.0925
+Thread 3: 19.1518
+Thread 4: 19.1555
+Thread 9: 19.098
+Final Approximation of the Integral: 19.111
+Runtime of the Integration 395494 microseconds
+Number of Threads used: 10
+Number of Total Samples: 10000000
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 0: -0.0015281
+Thread 1: -0.00100544
+Thread 3: 0.000553587
+Thread 17: -0.00289227
+Thread 18: 0.00164832
+Thread 4: 3.40706e-05
+Thread 12: -0.000621455
+Thread 6: -0.00169321
+Thread 10: 0.000107041
+Thread 2: 0.00231301
+Thread 15: 0.00685789
+Thread 9: -0.00164813
+Thread 5: 0.000636078
+Thread 14: -0.00232616
+Thread 16: -0.00182867
+Thread 13: -0.00235199
+Thread 8: -0.00277581
+Thread 7: 0.00277527
+Thread 11: -0.00467966
+Thread 19: -0.00251196
+Final Approximation of the Integral: -0.000546879
+Runtime of the Integration 335194 microseconds
+Number of Threads used: 20
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 0: 1.21769
+Thread 12: 1.21935
+Thread 9: 1.21884
+Thread 7: 1.21785
+Thread 6: 1.22002
+Thread 3: 1.21819
+Thread 8: 1.21587
+Thread 1: 1.21525
+Thread 4: 1.21514
+Thread 17: 1.21709
+Thread 10: 1.21803
+Thread 13: 1.21676
+Thread 5: 1.21786
+Thread 2: 1.22051
+Thread 11: 1.21811
+Thread 15: 1.21781
+Thread 16: 1.21793
+Thread 18: 1.21794
+Thread 19: 1.21809
+Thread 14: 1.21864
+Final Approximation of the Integral: 1.21785
+Runtime of the Integration 526489 microseconds
+Number of Threads used: 20
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 0: 19.1348
+Thread 1: 19.1178
+Thread 17: 19.1153
+Thread 18: 19.0939
+Thread 4: 19.0912
+Thread 7: 19.1766
+Thread 5: 19.1237
+Thread 11: 19.1595
+Thread 10: 19.075
+Thread 8: 19.1191
+Thread 6: 19.2035
+Thread 9: 19.1063
+Thread 13: 19.1005
+Thread 3: 19.0901
+Thread 12: 19.1157
+Thread 15: 19.1109
+Thread 2: 19.2166
+Thread 14: 19.1335
+Thread 16: 19.1272
+Thread 19: 19.1426
+Final Approximation of the Integral: 19.1277
+Runtime of the Integration 442046 microseconds
+Number of Threads used: 20
+Number of Total Samples: 10000000
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 0: -0.00684859
+Thread 6: -0.00228147
+Thread 9: -0.00504521
+Thread 10: -0.0043015
+Thread 37: -0.00694171
+Thread 38: 0.00151043
+Thread 18: -0.0064433
+Thread 17: -0.00590541
+Thread 12: 0.00363774
+Thread 1: 0.00390486
+Thread 30: 0.00328507
+Thread 32: 0.0025215
+Thread 26: 0.00840385
+Thread 31: -0.00495406
+Thread 5: -0.00664802
+Thread 29: -0.00208525
+Thread 16: 0.00471577
+Thread 33: 0.00290186
+Thread 24: -0.00363686
+Thread 34: -0.00489068
+Thread 27: -0.000299455
+Thread 2: 0.00132284
+Thread 8: -0.00193494
+Thread 35: -0.00486277
+Thread 23: -0.00300305
+Thread 3: -0.008569
+Thread 7: 0.00489957
+Thread 36: -0.00324518
+Thread 22: 0.00104587
+Thread 20: -0.00162972
+Thread 28: 0.0021419
+Thread 11: -0.00422697
+Thread 25: 0.00765643
+Thread 14: -0.00196459
+Thread 13: -0.00746429
+Thread 39: -0.00196635
+Thread 21: -0.000176604
+Thread 15: -0.0031338
+Thread 4: -0.000429896
+Thread 19: -0.000627201
+Final Approximation of the Integral: -0.0013892
+Runtime of the Integration 339300 microseconds
+Number of Threads used: 40
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 16: 1.21634
+Thread 0: 1.21647
+Thread 9: 1.21515
+Thread 13: 1.21614
+Thread 5: 1.21957
+Thread 10: 1.21424
+Thread 11: 1.21557
+Thread 12: 1.21809
+Thread 6: 1.22094
+Thread 15: 1.21682
+Thread 8: 1.21449
+Thread 7: 1.21718
+Thread 29: 1.21498
+Thread 34: 1.21767
+Thread 33: 1.2168
+Thread 35: 1.21694
+Thread 23: 1.21871
+Thread 2: 1.21895
+Thread 31: 1.21836
+Thread 14: 1.21819
+Thread 38: 1.22034
+Thread 24: 1.21695
+Thread 4: 1.21627
+Thread 30: 1.2151
+Thread 18: 1.21989
+Thread 1: 1.21753
+Thread 22: 1.21771
+Thread 3: 1.22199
+Thread 21: 1.22046
+Thread 17: 1.21871
+Thread 27: 1.21836
+Thread 39: 1.21908
+Thread 28: 1.21746
+Thread 37: 1.21737
+Thread 26: 1.21633
+Thread 25: 1.21741
+Thread 36: 1.21757
+Thread 20: 1.21582
+Thread 32: 1.21895
+Thread 19: 1.21959
+Final Approximation of the Integral: 1.21761
+Runtime of the Integration 535985 microseconds
+Number of Threads used: 40
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 23: 19.096
+Thread 15: 19.1
+Thread 1: 19.1012
+Thread 14: 19.1332
+Thread 34: 19.1626
+Thread 35: 19.1219
+Thread 20: 19.1191
+Thread 3: 19.0755
+Thread 4: 19.1524
+Thread 11: 19.0833
+Thread 33: 19.0851
+Thread 13: 19.1357
+Thread 5: 19.165
+Thread 25: 19.1685
+Thread 38: 19.1322
+Thread 12: 19.1814
+Thread 16: 19.1525
+Thread 31: 19.0846
+Thread 26: 19.0295
+Thread 17: 19.1235
+Thread 9: 19.1501
+Thread 18: 19.0842
+Thread 6: 19.1076
+Thread 10: 19.1271
+Thread 22: 19.1267
+Thread 0: 19.151
+Thread 37: 19.1188
+Thread 19: 19.1427
+Thread 39: 19.1345
+Thread 2: 19.2013
+Thread 7: 19.0583
+Thread 29: 19.1563
+Thread 36: 19.1245
+Thread 32: 19.1734
+Thread 30: 19.0685
+Thread 8: 19.0788
+Thread 21: 19.1822
+Thread 28: 19.0043
+Thread 27: 19.1036
+Thread 24: 19.2805
+Final Approximation of the Integral: 19.1244
+Runtime of the Integration 435367 microseconds
+Number of Threads used: 40
+Number of Total Samples: 10000000
+
+
+SINX / -1.5708 / 1.5708 / 10000000
+Thread 1: -0.00362311
+Thread 79: 0.00100047
+Thread 2: 0.00585706
+Thread 6: -0.000886001
+Thread 7: -0.00284437
+Thread 5: -0.000476932
+Thread 8: -0.00375848
+Thread 4: -0.00650185
+Thread 9: 0.000984066
+Thread 0: -0.00755134
+Thread 10: -0.00890031
+Thread 77: 0.00761556
+Thread 12: -0.00443595
+Thread 76: -0.0068691
+Thread 13: 0.0101657
+Thread 74: -0.00163346
+Thread 15: -0.00264299
+Thread 73: 0.00312695
+Thread 16: 0.0018493
+Thread 72: 0.00385078
+Thread 17: -0.0114938
+Thread 71: 0.00271188
+Thread 18: 0.00442636
+Thread 70: -0.00218194
+Thread 19: 0.00388892
+Thread 69: -0.00368523
+Thread 20: -0.00202798
+Thread 21: -0.00769479
+Thread 22: -0.00327823
+Thread 66: 0.00168727
+Thread 23: 0.00138368
+Thread 64: -0.000736383
+Thread 24: 0.0110374
+Thread 63: -0.0104242
+Thread 25: -0.000766248
+Thread 62: 0.00351584
+Thread 26: 0.00545284
+Thread 27: 0.00097461
+Thread 60: -0.00173129
+Thread 29: -0.0027584
+Thread 59: 0.0104943
+Thread 30: 0.00846665
+Thread 31: 0.00383269
+Thread 32: 0.0103492
+Thread 35: -0.000928607
+Thread 36: 0.00627321
+Thread 53: 0.00620111
+Thread 40: 0.00607431
+Thread 52: -0.00319409
+Thread 41: 0.018225
+Thread 34: -0.00219425
+Thread 42: -0.00244914
+Thread 38: -0.00550998
+Thread 43: 0.00312021
+Thread 37: -0.00354665
+Thread 28: 0.00668625
+Thread 61: 0.0068092
+Thread 55: 0.00347403
+Thread 54: -0.00770369
+Thread 67: 0.000274296
+Thread 65: -0.00746113
+Thread 56: 0.00494667
+Thread 68: -0.00132968
+Thread 3: 0.00155508
+Thread 39: -0.00157001
+Thread 75: -0.000349417
+Thread 14: -0.00134571
+Thread 11: 0.00390395
+Thread 44: -0.00541573
+Thread 78: -0.00773203
+Thread 45: 0.00108165
+Thread 50: 0.00205124
+Thread 51: -0.00366383
+Thread 33: 0.00306749
+Thread 58: 0.00130575
+Thread 57: -0.000217144
+Thread 48: -0.00344922
+Thread 46: -0.0112583
+Thread 47: -0.000215234
+Thread 49: 0.000488534
+Final Approximation of the Integral: 0.000147167
+Runtime of the Integration 341231 microseconds
+Number of Threads used: 80
+Number of Total Samples: 10000000
+
+
+COS2XINV / -1.5708 / 1.5708 / 10000000
+Thread 0: 1.21616
+Thread 59: 1.22329
+Thread 69: 1.21838
+Thread 58: 1.21316
+Thread 61: 1.21767
+Thread 75: 1.21977
+Thread 56: 1.21498
+Thread 66: 1.21424
+Thread 65: 1.21498
+Thread 49: 1.22114
+Thread 11: 1.21712
+Thread 74: 1.21521
+Thread 52: 1.22133
+Thread 7: 1.21819
+Thread 23: 1.22125
+Thread 64: 1.21567
+Thread 67: 1.22115
+Thread 63: 1.21404
+Thread 68: 1.21834
+Thread 14: 1.21796
+Thread 12: 1.21809
+Thread 4: 1.21497
+Thread 18: 1.2207
+Thread 57: 1.22069
+Thread 42: 1.21529
+Thread 38: 1.22323
+Thread 17: 1.2213
+Thread 51: 1.21489
+Thread 10: 1.2149
+Thread 78: 1.21903
+Thread 6: 1.21847
+Thread 47: 1.21825
+Thread 5: 1.21929
+Thread 39: 1.21813
+Thread 1: 1.21644
+Thread 54: 1.21795
+Thread 70: 1.21516
+Thread 46: 1.21646
+Thread 3: 1.21842
+Thread 53: 1.21808
+Thread 76: 1.21541
+Thread 15: 1.21599
+Thread 26: 1.21851
+Thread 25: 1.21409
+Thread 2: 1.22195
+Thread 55: 1.21504
+Thread 9: 1.22077
+Thread 60: 1.21407
+Thread 28: 1.21523
+Thread 16: 1.21886
+Thread 32: 1.21855
+Thread 48: 1.21618
+Thread 72: 1.21842
+Thread 50: 1.21795
+Thread 41: 1.21916
+Thread 20: 1.2185
+Thread 33: 1.2149
+Thread 45: 1.21551
+Thread 34: 1.21884
+Thread 8: 1.2225
+Thread 40: 1.21908
+Thread 73: 1.21649
+Thread 29: 1.22151
+Thread 77: 1.21904
+Thread 62: 1.21858
+Thread 36: 1.21729
+Thread 43: 1.22041
+Thread 19: 1.21472
+Thread 13: 1.21592
+Thread 22: 1.21923
+Thread 44: 1.21776
+Thread 71: 1.21716
+Thread 27: 1.21817
+Thread 79: 1.21657
+Thread 35: 1.21832
+Thread 21: 1.21566
+Thread 24: 1.21941
+Thread 30: 1.21324
+Thread 31: 1.21368
+Thread 37: 1.21901
+Final Approximation of the Integral: 1.21769
+Runtime of the Integration 529351 microseconds
+Number of Threads used: 80
+Number of Total Samples: 10000000
+
+
+X4M5 / -1.5708 / 1.5708 / 10000000
+Thread 26: 19.0118
+Thread 9: 19.099
+Thread 11: 19.197
+Thread 15: 19.03
+Thread 17: 19.16
+Thread 24: 19.1962
+Thread 43: 19.1495
+Thread 45: 19.1665
+Thread 40: 19.1156
+Thread 46: 19.1453
+Thread 4: 19.0014
+Thread 42: 19.201
+Thread 6: 19.1961
+Thread 49: 19.1583
+Thread 66: 19.1771
+Thread 50: 19.1988
+Thread 67: 19.2145
+Thread 51: 19.2163
+Thread 68: 19.1701
+Thread 53: 19.1747
+Thread 70: 18.9927
+Thread 55: 19.0999
+Thread 72: 19.1184
+Thread 57: 19.1587
+Thread 73: 19.152
+Thread 58: 19.0722
+Thread 75: 19.1337
+Thread 59: 19.0112
+Thread 76: 19.2241
+Thread 61: 19.1126
+Thread 0: 19.1958
+Thread 27: 19.1158
+Thread 23: 19.176
+Thread 3: 19.178
+Thread 7: 19.0903
+Thread 29: 19.1113
+Thread 35: 19.2461
+Thread 31: 19.1171
+Thread 21: 19.0893
+Thread 22: 19.0703
+Thread 44: 19.2123
+Thread 28: 19.1019
+Thread 30: 19.0941
+Thread 71: 19.029
+Thread 69: 19.2128
+Thread 32: 19.1153
+Thread 33: 19.1346
+Thread 54: 19.1931
+Thread 36: 19.1595
+Thread 47: 19.2457
+Thread 5: 19.2772
+Thread 77: 19.0884
+Thread 48: 19.1341
+Thread 78: 19.1152
+Thread 1: 19.1518
+Thread 19: 19.0848
+Thread 12: 19.091
+Thread 20: 19.0283
+Thread 2: 19.0683
+Thread 16: 19.1826
+Thread 13: 19.0436
+Thread 34: 19.3231
+Thread 41: 19.1786
+Thread 25: 19.0997
+Thread 39: 19.3034
+Thread 65: 19.072
+Thread 62: 19.2034
+Thread 8: 19.1587
+Thread 18: 19.0485
+Thread 38: 19.0954
+Thread 14: 18.926
+Thread 37: 19.094
+Thread 64: 19.2576
+Thread 10: 19.0684
+Thread 52: 19.1016
+Thread 63: 19.097
+Thread 74: 19.0482
+Thread 56: 19.1017
+Thread 60: 19.0437
+Thread 79: 19.2166
+Final Approximation of the Integral: 19.1331
+Runtime of the Integration 425084 microseconds
+Number of Threads used: 80
+Number of Total Samples: 10000000

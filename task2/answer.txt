@@ -1,0 +1,2 @@
+To justify the use of a log scale, we need to calculate the linear interpolation of the logarithm of the data and calculate the correlation coefficient between this interpolation and the logarithm of the data.
+Here the coefficient of determination for the CPU count is approximately R2 = 0.977, so we can conclude that the interpolation of the logarithm is quite pertinent and therefore, using a log-scale is appropriate.
